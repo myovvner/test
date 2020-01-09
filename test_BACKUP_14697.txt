@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 there is a proble and I repear it here
 =======
 
@@ -10,3 +11,4 @@ add something new
 func
 func
 func
+>>>>>>> master
